@@ -19,3 +19,10 @@
 
 
 ![7](https://github.com/shafiquecbl/period_tracker_v2/assets/57300829/ff5ee0a0-c894-4c1e-8f1a-523331ecf26c)
+
+# Video
+
+
+https://github.com/shafiquecbl/period_tracker_v2/assets/57300829/ee2b69da-51c3-4bdb-a59d-b028bd7cb56a
+
+
