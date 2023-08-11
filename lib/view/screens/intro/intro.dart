@@ -197,7 +197,7 @@ class _IntroPageState extends State<IntroPage> {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
-              Theme.of(context).primaryColor,
+              periodDayColor,
               purpleColor,
             ],
             begin: Alignment.topCenter,

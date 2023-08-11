@@ -60,7 +60,7 @@ class _HorizontalWheelWidgetState extends State<HorizontalWheelWidget> {
                 gradient: index == _selectedIndex
                     ? LinearGradient(
                         colors: [
-                          Theme.of(context).primaryColor,
+                          periodDayColor,
                           purpleColor,
                         ],
                         begin: Alignment.topCenter,
